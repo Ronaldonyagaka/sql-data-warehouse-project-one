@@ -168,7 +168,7 @@ These are responsible for orchestrating the data loads between ETL layers.
 
 This project demonstrates a clean, layered ETL approach to data warehousing in SQL Server using structured naming conventions to ensure consistency, clarity, and maintainability.
 
-Feel free to customize, extend, or automate the components for CI/CD integration or pipeline scheduling (e.g., via SQL Agent or Azure Data Factory).
+
 
 
 
