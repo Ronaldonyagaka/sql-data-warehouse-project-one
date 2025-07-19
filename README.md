@@ -172,7 +172,5 @@ This project demonstrates a clean, layered ETL approach to data warehousing in S
 
 Feel free to customize, extend, or automate the components for CI/CD integration or pipeline scheduling (e.g., via SQL Agent or Azure Data Factory).
 
----
 
-Let me know if you’d like a diagram or SQL examples added to the `README.md` too.
 
