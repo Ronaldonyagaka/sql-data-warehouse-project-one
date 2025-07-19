@@ -1,5 +1,3 @@
-Here's a clean, professional `README.md` for your SQL Server data warehouse project with full ETL pipeline documentation:
-
 ---
 
 # 📦 SQL Server Data Warehouse (ETL Pipeline Project)
